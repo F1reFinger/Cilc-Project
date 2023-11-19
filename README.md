@@ -37,8 +37,51 @@ safer for everyone
 
 ## 5 - what can it be used for?
 
-The drones' integration into various public services expands their utility manifold. They're employed for multifaceted tasks such as aiding firefighters in navigating hazardous environments, supporting law enforcement for surveillance and monitoring, assisting transportation departments in optimizing operations, and aiding individuals in tasks like moving homes or facilitating deliveries. Essentially, these drones serve as versatile tools across public sectors, enhancing their capacity to offer aid, streamline processes, and ultimately contribute to making everyday life safer, easier, and more efficient for people across different spheres of society.
+The drones integration into various public services expands their utility manifold. They're employed for multifaceted tasks such as aiding firefighters in navigating hazardous environments, supporting law enforcement for surveillance and monitoring, assisting transportation departments in optimizing operations, and aiding individuals in tasks like moving homes or facilitating deliveries. Essentially, these drones serve as versatile tools across public sectors, enhancing their capacity to offer aid, streamline processes, and ultimately contribute to making everyday life safer, easier, and more efficient for people across different spheres of society.
 
 ## 6 - Where you can buy it or download it?
 
 That's a big problem because it's hard every segment needs a price and an financing so it will depend on what product and if it's financed or not.And the distribution it will be made by the industries who financiate-it or local stores delievered by mail to those who buy it.
+
+## 7 - The prototype:
+
+### Parts needed:
+
+- esp33:
+
+    <p>1 esp32 to be the controller
+    <div>
+    <img align="center" alt="png" width="194em" height="180em" src="./images/6018985434_1.png"/>
+    </div>
+
+- Batteries:
+
+    <p> 4 Batteries
+    <div>
+    <img align="center" alt="png" width="194em" height="180em" src="./images/18650.png"/>
+    </div>
+
+- Motors:
+
+    <p> 2 Motors
+    <div>
+    <img align="center" alt="png" width="194em" height="180em" src="./images/motor.jpg"/>
+    </div>
+
+- H bridge:
+
+    <p> 1 H Bridge
+    <div>
+    <img align="center" alt="png" width="194em" height="180em" src="./images/ponte.png"/>
+    </div>
+
+### you can chose any toy or create by yourself to inject the hardware :wink:
+
+<p> in my case i chose an excavator to have mor power and the result is like this:
+
+<img align="center" alt="png" width="194em" height="180em" src="./images/IMG_20231119_160714.jpg"/>
+</div>
+
+
+## 8 - Slide:
+
