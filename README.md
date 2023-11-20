@@ -113,9 +113,9 @@ That's a big problem because it's hard every segment needs a price and an financ
 
 <video width="720" height="480" src="https://youtu.be/8-LpOOSjs_o"></video>
 
-[![test with caterpillar tracks](https://youtube.com/shorts/XSHk8Jew5nI?feature=share)](https://youtube.com/shorts/XSHk8Jew5nI?feature=share)
+[![test with caterpillar tracks](./images/IMG-20231105-WA0043.jpeg)](https://youtube.com/shorts/XSHk8Jew5nI?feature=share)
 
 
-[![video showing first tests](https://youtu.be/8-LpOOSjs_o)](https://youtu.be/8-LpOOSjs_o)
+[![video showing first tests](./images/IMG_20231119_160714.jpg)](https://youtu.be/8-LpOOSjs_o)
 
 
