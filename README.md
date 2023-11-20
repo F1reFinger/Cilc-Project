@@ -2,7 +2,21 @@
 
 ### To understand better the idea you can check enounciate: 
 
-<a href="./E6 - FINAL PROJECT.pdf" target=_blank>E6 - Final Project</a></h3>
+<p>the enounciate
+<br>
+<a href="./docs/E6 - FINAL PROJECT.pdf" target=_blank>E6 - Final Project</a></h3>
+
+<br>
+<p>presentation in powerpoint
+<br>
+
+<a href="./docs/Apresentação 1.pptx" target=_blank>Slide</a></h3>
+
+<br>
+<p>Presentation slide in pdf
+<br>
+
+<a href="./docs/Apresentação 1.pdf" target=_blank>Slide in pdf</a></h3>
 
  ## 1-The problem to solve:
 
@@ -78,6 +92,14 @@ That's a big problem because it's hard every segment needs a price and an financ
 ### you can chose any toy or create by yourself to inject the hardware :wink:
 
 <p> in my case i chose an excavator to have mor power and the result is like this:
+
+- schematic:
+<br>
+<img align="center" alt="png" width="194em" height="180em" src="./images/schematics.jpg"/>
+</div>
+
+<br>
+<p> final prototype:
 <br>
 <img align="center" alt="png" width="194em" height="180em" src="./images/IMG_20231119_160714.jpg"/>
 </div>
@@ -87,9 +109,9 @@ That's a big problem because it's hard every segment needs a price and an financ
 
 <p>video showing tests of the development
 <br>
-<video width="630" height="300" src="./images/VID-20231112-WA0056~2.mp4"></video>
+<video width="630" height="300" src="https://youtube.com/shorts/XSHk8Jew5nI?feature=share"></video>
 
+<video width="630" height="300" src="https://youtu.be/8-LpOOSjs_o"></video>
 
-## 8 - Slide:
 
 
