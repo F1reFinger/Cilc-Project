@@ -109,9 +109,9 @@ That's a big problem because it's hard every segment needs a price and an financ
 
 <p>video showing tests of the development
 <br>
-<video width="630" height="300" src="https://youtube.com/shorts/XSHk8Jew5nI?feature=share"></video>
+<video width="720" height="480" src="https://youtube.com/shorts/XSHk8Jew5nI?feature=share">test with caterpillar tracks</video>
 
-<video width="630" height="300" src="https://youtu.be/8-LpOOSjs_o"></video>
+<video width="720" height="480" src="https://youtu.be/8-LpOOSjs_o">video showing first tests</video>
 
 
 
